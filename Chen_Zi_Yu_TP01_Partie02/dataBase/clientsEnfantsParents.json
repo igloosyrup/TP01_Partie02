@@ -1,0 +1,91 @@
+{
+	"restClientsEnfantsParents": [
+		{
+			"Entreprise": {
+				"id": 1,
+				"type": "Entreprise",
+				"adresse": "5929 Kohler Plaza,Elliestad,South Carolina,95698-6731,Bosnia and Herzegovina",
+				"details": {
+					"rue": "543 Bednar Drive",
+					"ville": "Kenyattachester",
+					"province": "Idaho"
+				},
+				"nom": "Ondricka, Langosh and Greenfelder",
+				"phone": "355-515-0689",
+				"fax": "331.508.7696 x13301",
+				"contact": {
+					"prenom": "Kendra",
+					"nom": "Daugherty",
+					"email": "Emil_Kessler39@gmail.com"
+				}
+			}
+		},
+		{
+			"Entreprise": {
+				"id": 2,
+				"type": "Entreprise",
+				"adresse": "4186 Nader Flats,Wehnerchester,Nevada,80733,Dominica",
+				"details": {
+					"rue": "7511 Grover Lane",
+					"ville": "Corneliusstad",
+					"province": "Texas"
+				},
+				"nom": "White and Sons",
+				"phone": "1-427-692-0212 x624",
+				"fax": "1-322-791-8627",
+				"contact": {
+					"prenom": "Gilbert",
+					"nom": "Nienow",
+					"email": "Verda.Nader12@hotmail.com"
+				}
+			}
+		},
+		{
+			"Individu": {
+				"id": 3,
+				"type": "Individu",
+				"adresse": "9387 Hardy Track,Bodemouth,Kentucky,81829,Azerbaijan",
+				"details": {
+					"rue": "1337 Lockman Path",
+					"ville": "Goodwinville",
+					"province": "Mississippi"
+				},
+				"prenom": "Antonietta",
+				"nom": "Kassulke",
+				"email": "Jensen6@yahoo.com"
+			}
+		},
+		{
+			"Entreprise": {
+				"id": 4,
+				"type": "Entreprise",
+				"adresse": "2966 Kennedi Meadows,Axelstad,Michigan,36885,Grenada",
+				"details": {
+					"rue": "385 Ferry Lodge",
+					"ville": "Gaylordville",
+					"province": "Virginia"
+				},
+				"nom": "Frami - Prosacco",
+				"phone": "343.259.5617",
+				"fax": "728.716.9792",
+				"contact": {
+					"prenom": "Stanton",
+					"nom": "Christiansen",
+					"email": "Logan.Bernier66@gmail.com"
+				}
+			}
+		},
+		{
+			"Client": {
+				"id": 5,
+				"type": "Client",
+				"adresse": "7337 Keebler Rest,Hillsstad,Indiana,54956-2019,Mayotte",
+				"details": {
+					"rue": "9310 Annamae Overpass",
+					"ville": "Elyssaville",
+					"province": "Arkansas"
+				}
+			}
+		}
+	]
+}
