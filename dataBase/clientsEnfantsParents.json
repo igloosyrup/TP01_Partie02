@@ -1,0 +1,91 @@
+{
+	"restClientsEnfantsParents": [
+		{
+			"Entreprise": {
+				"id": 1,
+				"type": "Entreprise",
+				"adresse": "22551 Rudolph Greens,Garretmouth,Massachusetts,65077,Djibouti",
+				"details": {
+					"rue": "8418 Kuphal Parkway",
+					"ville": "Harberfort",
+					"province": "Nebraska"
+				},
+				"nom": "Sauer Group",
+				"phone": "452-450-9123",
+				"fax": "758.515.0511",
+				"contact": {
+					"prenom": "Giovanna",
+					"nom": "Osinski",
+					"email": "Clinton_Shanahan@hotmail.com"
+				}
+			}
+		},
+		{
+			"Client": {
+				"id": 2,
+				"type": "Client",
+				"adresse": "77314 Marvin Mountains,Schulistchester,Alabama,84345-0668,Dominica",
+				"details": {
+					"rue": "393 Daniel Shoals",
+					"ville": "New Juddport",
+					"province": "Illinois"
+				}
+			}
+		},
+		{
+			"Entreprise": {
+				"id": 3,
+				"type": "Entreprise",
+				"adresse": "711 Wisozk Extension,New Ottis,Connecticut,39738,Equatorial Guinea",
+				"details": {
+					"rue": "331 Abelardo Ramp",
+					"ville": "West Bernadettebury",
+					"province": "New York"
+				},
+				"nom": "Rice - Cronin",
+				"phone": "1-686-563-2260",
+				"fax": "889-823-4991",
+				"contact": {
+					"prenom": "Howell",
+					"nom": "Wunsch",
+					"email": "Jean30@hotmail.com"
+				}
+			}
+		},
+		{
+			"Individu": {
+				"id": 4,
+				"type": "Individu",
+				"adresse": "8917 Breitenberg View,Jacobsonland,Washington,19840,Afghanistan",
+				"details": {
+					"rue": "907 Greenfelder Mountains",
+					"ville": "Hayesmouth",
+					"province": "Arizona"
+				},
+				"prenom": "Anastasia",
+				"nom": "Cartwright",
+				"email": "Isaac83@yahoo.com"
+			}
+		},
+		{
+			"Entreprise": {
+				"id": 5,
+				"type": "Entreprise",
+				"adresse": "91489 Kutch Expressway,North Luther,Texas,21006-6205,Bolivia",
+				"details": {
+					"rue": "51803 Christy Trace",
+					"ville": "Nitzscheburgh",
+					"province": "Illinois"
+				},
+				"nom": "Adams LLC",
+				"phone": "529-874-9175 x622",
+				"fax": "1-307-450-1014",
+				"contact": {
+					"prenom": "Madie",
+					"nom": "Howell",
+					"email": "Andrew3@gmail.com"
+				}
+			}
+		}
+	]
+}
