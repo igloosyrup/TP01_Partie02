@@ -1,0 +1,70 @@
+{
+	"restClientsEnfantsParents": [
+		{
+			"id": 1,
+			"type": "Client",
+			"adresse": "45095 Greenholt Brook,South Lucaschester,Oklahoma,81332,Paraguay",
+			"details": {
+				"rue": "4290 Cummerata Tunnel",
+				"ville": "Janniefurt",
+				"province": "West Virginia"
+			}
+		},
+		{
+			"id": 2,
+			"type": "Client",
+			"adresse": "23516 Medhurst Port,Skilesstad,Alaska,51757-8268,Philippines",
+			"details": {
+				"rue": "15530 Filomena Road",
+				"ville": "South Moshetown",
+				"province": "Wisconsin"
+			}
+		},
+		{
+			"id": 3,
+			"type": "Client",
+			"adresse": "292 Quitzon Vista,Lillymouth,Pennsylvania,54253,Dominica",
+			"details": {
+				"rue": "748 Marcus Squares",
+				"ville": "North Nikkichester",
+				"province": "Kentucky"
+			}
+		},
+		{
+			"id": 4,
+			"type": "Entreprise",
+			"adresse": "97127 Walton Mountains,Eleonorefurt,Vermont,78206-9950,Central African Republic",
+			"details": {
+				"rue": "13503 Carolyne Canyon",
+				"ville": "North Kristoffer",
+				"province": "Louisiana"
+			},
+			"nom": "Bosco Inc",
+			"phone": "1-859-647-8419",
+			"fax": "(856) 295-6691 x1447",
+			"contact": {
+				"prenom": "Maxwell",
+				"nom": "Langosh",
+				"email": "Lyric.Lemke@hotmail.com"
+			}
+		},
+		{
+			"id": 5,
+			"type": "Entreprise",
+			"adresse": "6816 Kihn Estates,Heaneymouth,Missouri,36648-3889,Cocos (Keeling) Islands",
+			"details": {
+				"rue": "51317 Walton Station",
+				"ville": "Port Melyssa",
+				"province": "New Jersey"
+			},
+			"nom": "Kessler LLC",
+			"phone": "1-224-471-7854",
+			"fax": "967-754-1247",
+			"contact": {
+				"prenom": "Connor",
+				"nom": "Bins",
+				"email": "Narciso.Langosh@gmail.com"
+			}
+		}
+	]
+}
